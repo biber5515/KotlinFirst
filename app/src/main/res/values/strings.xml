@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">KotlinFirst</string>
+    <string name="height">신장</string>
+    <string name="weiht">체중</string>
 </resources>
